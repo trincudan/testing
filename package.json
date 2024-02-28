@@ -4,7 +4,8 @@
   "description": "A simple Node.js app for Docker testing",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "build": "your-build-command-here"  // Add your build command here
   },
   "dependencies": {},
   "author": "Your Name",
